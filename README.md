@@ -12,3 +12,10 @@ ES6 and Typescript practice set
 >>2. Lexical this
 >4. <b>Extened parameter</b>
 >>1. 
+
+
+
+# Type Script Language Practice set
+1. Default configuration file  tsc --init
+
+
