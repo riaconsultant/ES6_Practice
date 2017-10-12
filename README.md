@@ -11,7 +11,27 @@ ES6 and Typescript practice set
 >>1. Expression/Statement bodies
 >>2. Lexical this
 >4. <b>Extened parameter</b>
->>1. 
+>>1. Default
+>>2. Rest
+>>3. Spread
+>5. <b>Class, Constructor, Extend</b>
+>6. <b>Modules</b>
+>7. <b>Enhanced Object Literals</b>
+>8. <b>Destructuring Assignment</b>
+>9. <b>Promises</b>
+>10. <b>Template Literal | Template Strings</b>
+>11. <b>Symbol Type</b>
+>12. <b>Iterators</b>
+>13. <b>Typed Array</b>
+>14. <b>Generators</b>
+>15. <b>Map/Set</b>
+>16. <b>WeakMap/WeakSet</b>
+>17. <b>Proxying</b>
+>18. <b>Reflection</b>
+>19. <b>Collector</b>
+>20. <b>NumberFormat</b>
+>21. <b>DateTimeFormat</b>
+>22. <b>Build-In Method</b>
 
 
 
