@@ -11,3 +11,14 @@ console.log(ind);
 // Arrow Functions
 var plus = arr.map(v => v+1);
 console.log(plus);
+// Statement bodies 
+var plus1 = arr.map((v) =>{
+    return v+2;
+});
+console.log(plus1);
+// Array Matching
+
+var list = [1,2,3];
+var [a,b,c] = list;
+
+console.log(a,b,c);
